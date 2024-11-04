@@ -4,13 +4,13 @@
       title: "The History of QWERTY Layout",
       date: "2024-03-15",
       excerpt: "Discover how the QWERTY keyboard layout became the global standard...",
-      image: "/images/qwerty.jpg"
+      image: "https://images.unsplash.com/photo-1703248184547-13cee07c05b2?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
       title: "Collecting Vintage Typewriters",
       date: "2024-03-10",
       excerpt: "Tips and tricks for starting your own typewriter collection...",
-      image: "/images/collecting.jpg"
+      image: "https://images.unsplash.com/photo-1703925154762-c3d2086c3535?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     }
   ];
 </script>

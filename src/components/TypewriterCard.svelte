@@ -15,7 +15,7 @@
 </script>
 
 <div class="bg-white rounded-lg shadow-md overflow-hidden">
-  <TypewriterImage {title} />
+  <TypewriterImage {tokenId} />
   <div class="p-4">
     <h3 class="text-xl font-semibold mb-2">{title}</h3>
     <p class="text-gray-600">Year: {year}</p>
